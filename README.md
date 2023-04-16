@@ -1,4 +1,4 @@
-# qi
+# Qi
 
 A transaction auction platform that aims to minimize frictions around user transactions
 
